@@ -1,6 +1,6 @@
 # COOKHOUSE Application
 
-![Flutter-Dart Icon](https://img.icons8.com/color/48/000000/flutter.png)
+![Flutter-Dart Icon](https://img.icons8.com/color/48/000000/flutter.png) ![Dart Icon](https://img.icons8.com/color/48/000000/dart.png)
 
 ## Overview
 
@@ -43,3 +43,24 @@ Clone the repository and navigate to the project directory:
 ```bash
 git clone https://github.com/your-username/COOKHOUSE.git
 cd COOKHOUSE
+```
+### Usage
+Run the application on an emulator or physical device:
+
+\```bash
+flutter run
+\```
+Follow the on-screen instructions to navigate through the application and explore its features.
+
+### Contributing
+If you'd like to contribute to the project, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature-name`.
+3. Implement your changes, write tests, improve documentation.
+4. Commit your changes: `git commit -m 'Add some feature'`.
+5. Push to the branch: `git push origin feature-name`.
+6. Submit a pull request.
+
+### License
+This project is licensed under the Apache License.
