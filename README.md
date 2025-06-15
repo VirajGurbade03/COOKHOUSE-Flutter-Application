@@ -1,66 +1,90 @@
-# COOKHOUSE Application
+# 🍽️ COOKHOUSE Application – Smart Food Ordering & Recipe Platform
 
-![Flutter-Dart Icon](https://img.icons8.com/color/48/000000/flutter.png) ![Dart Icon](https://img.icons8.com/color/48/000000/dart.png)
+![Repo Size](https://img.shields.io/github/repo-size/VirajGurbade03/COOKHOUSE-Flutter-Application)
+![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
+![License: Apache](https://img.shields.io/badge/license-Apache-blue.svg)
 
-## Overview
+> A smart food-ordering and recipe-management app built with Flutter, Firebase, and Google Cloud.
 
-COOKHOUSE is a mobile application developed to automate food ordering and delivery in a cookhouse setting. Built with Flutter, Dart, Firebase, GCP, and designed using Figma, this application offers a seamless user experience for ordering home-cooked meals, storing new recipes, and rating and exploring dishes.
+---
 
-## Features
+## 📌 Project Overview
 
-- **Food Ordering:** Allows users to browse through a variety of home-cooked meals, select dishes, customize orders, and place them for delivery.
-  
-- **Recipe Storage:** Enables users to store and manage their favorite recipes, making it easier to prepare meals at home.
+**COOKHOUSE** is a cross-platform mobile application designed to automate the process of browsing, ordering, rating, and storing home-cooked meals. With a clean UI, Firebase integration, and GCP support, it enhances user experience and kitchen convenience.
 
-- **Dish Rating & Exploration:** Provides a platform for users to rate dishes they've tried and explore new dishes based on ratings and reviews.
+<div align="center">
+  <img src="Screan Shots/Picture5.png" alt="Cookhouse Home" width="300"/>
+</div>
 
-## Technologies Used
+📍 **GitHub Repo**: [COOKHOUSE Application](https://github.com/VirajGurbade03/COOKHOUSE-Flutter-Application)  
+🧑‍💻 **Developer**: Viraj V. Gurbade  
+📨 **Email**: [virajggurbade@gmail.com](mailto:virajggurbade@gmail.com)
 
-- **Mobile App Development:** Flutter, Dart
-- **Backend:** Firebase, Google Cloud Platform (GCP)
-- **Design:** Figma
+---
 
-## Project Structure
+## 🧠 Key Features
 
-The project is organized into the following directories and files:
+- 🥘 **Smart Food Ordering** – Browse meals, customize, and order home-cooked food  
+- 📖 **Recipe Management** – Save, edit, and organize your own cooking recipes  
+- ⭐ **Dish Reviews** – Rate dishes and explore others based on user reviews  
+- ☁️ **Cloud Synced** – Data stored in Firebase, accessible across devices  
+- 🎨 **Figma-Based UI** – Modern, clean layout for better usability
 
-- **lib:** Source code files containing the main implementation of the COOKHOUSE application.
-- **assets:** Image assets, icons, and other resources used in the application.
-- **tests:** Unit tests and integration tests to ensure functionality and performance.
-- **docs:** Documentation, user guides, and project report.
+---
 
-## Getting Started
+## 📸 Screenshots
 
-### Prerequisites
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="Screan Shots/Picture1.png" width="300"/></td>
+      <td><img src="Screan Shots/Picture2.png" width="300"/></td>
+      <td><img src="Screan Shots/Picture3.png" width="300"/></td>
+      <td><img src="Screan Shots/Picture4.png" width="300"/></td>
+    </tr>
+  </table>
+</div>
 
-- Install Flutter SDK on your machine. For installation instructions, visit [Flutter Official Website](https://flutter.dev/docs/get-started/install).
-- Set up Firebase and GCP accounts and configure them for the project.
+---
 
-### Installation
+## 🎥 Demo Video
 
-Clone the repository and navigate to the project directory:
+📌 Watch the demo on [YouTube](https://youtube.com/shorts/K0l9eCY9UkU?feature=share)
+
+
+---
+
+## 🛠 Tech Stack
+
+| Category         | Tools Used                           |
+|------------------|----------------------------------------|
+| Mobile Frontend  | Flutter, Dart                         |
+| Cloud Services   | Firebase, Google Cloud Platform (GCP) |
+| Design           | Figma                                 |
+| DevOps           | GitHub, CI/CD                         |
+
+
+---
+## 🎯 Aim & Objectives
+
+### Aim
+To design and develop a personalized food ordering and recipe management application that automates cookhouse services using real-time cloud integration and intuitive mobile UX.
+
+### Objectives
+1. Develop a Flutter-based cross-platform mobile app for smart food ordering and recipe storage.
+2. Integrate Firebase and GCP to manage real-time orders, user data, and authentication.
+3. Enable users to store, edit, and retrieve custom recipes from the cloud.
+4. Implement a rating and review system for dishes to help users explore top-rated meals.
+5. Design a user-friendly UI using Figma to enhance accessibility and usability.
+
+---
+
+### ✅ Prerequisites
+- Install [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Set up Firebase project with Firestore and Realtime DB
+- Clone the repository
 
 ```bash
-git clone https://github.com/your-username/COOKHOUSE.git
-cd COOKHOUSE
-```
-### Usage
-Run the application on an emulator or physical device:
+git clone https://github.com/VirajGurbade03/COOKHOUSE-Flutter-Application.git
+cd COOKHOUSE-Flutter-Application
 
-\```bash
-flutter run
-\```
-Follow the on-screen instructions to navigate through the application and explore its features.
-
-### Contributing
-If you'd like to contribute to the project, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-name`.
-3. Implement your changes, write tests, improve documentation.
-4. Commit your changes: `git commit -m 'Add some feature'`.
-5. Push to the branch: `git push origin feature-name`.
-6. Submit a pull request.
-
-### License
-This project is licensed under the Apache License.
